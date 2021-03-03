@@ -28,5 +28,7 @@ jsFunc0 = () => {
   /// codes
   let xyz = "<h1> Title Is ? </h1>";
   return xyz;
-  
-  
+}
+
+window.open("http://www.google.com");
+
